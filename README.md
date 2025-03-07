@@ -20,6 +20,7 @@ To install ComfyUI-Manager in addition to an existing installation of ComfyUI, y
 1. goto `ComfyUI/custom_nodes` dir in terminal(cmd)
 2. `git clone https://github.com/ltdrdata/ComfyUI-Manager comfyui-manager`
 3. Restart ComfyUI
+4. 
 There are other methods for installation Visit [GitHub repo](https://github.com/ltdrdata/ComfyUI-Manager/tree/main)
 
 ## 2. Download and load the workflow
@@ -29,6 +30,7 @@ The workflow is given in the repo [HunyuanVideoGGUF4GB.json](https://github.com/
 Load the workflow in ComfyUI
 
 Download the missing nodes
+
 Using the Manager:
 1. Open ComfyUI and click the "Manager" button. 
 2. Click "Install Custom Node" and search for the desired node. 
@@ -40,3 +42,6 @@ Manually:
 3. Use Git to clone the repository of the desired custom node. 
 4. Example: git clone https://github.com/example/comfyui-node.git. 
 5. Restart ComfyUI. 
+
+## 3. Download the model
+
