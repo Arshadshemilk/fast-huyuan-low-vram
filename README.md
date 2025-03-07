@@ -29,12 +29,12 @@ The workflow is given in the repo [HunyuanVideoGGUF4GB.json](https://github.com/
 Load the workflow in ComfyUI
 Download the missing nodes
 Using the Manager:
-Open ComfyUI and click the "Manager" button. 
-Click "Install Custom Node" and search for the desired node. 
-Restart ComfyUI.
+1. Open ComfyUI and click the "Manager" button. 
+2. Click "Install Custom Node" and search for the desired node. 
+3. Restart ComfyUI.
 Manually:
-Open a terminal or command prompt. 
-Navigate to the custom_nodes folder. 
-Use Git to clone the repository of the desired custom node. 
-Example: git clone https://github.com/example/comfyui-node.git. 
-Restart ComfyUI. 
+1. Open a terminal or command prompt. 
+2. Navigate to the custom_nodes folder. 
+3. Use Git to clone the repository of the desired custom node. 
+4. Example: git clone https://github.com/example/comfyui-node.git. 
+5. Restart ComfyUI. 
