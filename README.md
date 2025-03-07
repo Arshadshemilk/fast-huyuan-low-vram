@@ -21,3 +21,6 @@ To install ComfyUI-Manager in addition to an existing installation of ComfyUI, y
 2. `git clone https://github.com/ltdrdata/ComfyUI-Manager comfyui-manager`
 3. Restart ComfyUI
 There are other methods for installation Visit [GitHub repo](https://github.com/ltdrdata/ComfyUI-Manager/tree/main)
+
+## 2. Download and load the workflow
+
