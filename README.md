@@ -24,3 +24,17 @@ There are other methods for installation Visit [GitHub repo](https://github.com/
 
 ## 2. Download and load the workflow
 
+The workflow is given in the repo [HunyuanVideoGGUF4GB.json](https://github.com/Arshadshemilk/fast-huyuan-low-vram/edit/main/HunyuanVideoGGUF4GB.json)
+
+Load the workflow in ComfyUI
+Download the missing nodes
+Using the Manager:
+Open ComfyUI and click the "Manager" button. 
+Click "Install Custom Node" and search for the desired node. 
+Restart ComfyUI.
+Manually:
+Open a terminal or command prompt. 
+Navigate to the custom_nodes folder. 
+Use Git to clone the repository of the desired custom node. 
+Example: git clone https://github.com/example/comfyui-node.git. 
+Restart ComfyUI. 
