@@ -1,6 +1,6 @@
 # fast-huyuan-low-vram
 
-## 1.Setup ComfyUI-Windows Portable (skip if already done)
+## 1. Setup ComfyUI-Windows Portable (skip if already done)
 
 There is a portable standalone build for Windows that should run on Nvidia GPUs or your CPU only on the [releases page](https://github.com/comfyanonymous/ComfyUI/releases).
 
