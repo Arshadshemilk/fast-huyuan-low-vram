@@ -8,4 +8,6 @@ There is a portable standalone build for Windows that should run on Nvidia GPUs 
 
 Simply download, extract with [7-Zip](https://7-zip.org) and run.
 
-If you have trouble extracting it, right click the file -> properties -> unblock
+If you have trouble extracting it, right-click the file -> properties -> unblock
+
+GitHub page [ComfyUI](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file)
